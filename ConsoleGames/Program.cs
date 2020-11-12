@@ -48,11 +48,11 @@ namespace ConsoleGames
                             break;
                         case 6:
                             Console.Clear();
-                            //Games.MathGame();
+                            //none yet
                             break;
                         case 7:
                             Console.Clear();
-                            //Games.HangMan();
+                            //none yet
                             break;
                         case 8:
                             Console.Clear();
