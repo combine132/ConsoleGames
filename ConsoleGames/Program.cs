@@ -69,7 +69,7 @@ namespace ConsoleGames
                             Console.Clear();
                             break;
                     }
-                } 
+                }
                 catch (FormatException) {
                     Console.Clear();
                     Console.WriteLine("Input has to be a number.\n");
