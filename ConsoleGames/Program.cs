@@ -74,7 +74,7 @@ namespace ConsoleGames
                     Console.Clear();
                     Console.WriteLine("Input has to be a number.\n");
                 }
-            } while (loop); 
+            } while (loop);
         }
     }
 }
